@@ -58,6 +58,10 @@ body {
   width: 90px;
 }
 
+#custom-text {
+  margin-left: 10px;
+}
+
 /*-------- Preloader --------*/
 .preloader {
   position: fixed;
